@@ -1,3 +1,5 @@
+![ChelonianGall](https://repository-images.githubusercontent.com/521049286/e2f60e8b-53ac-47a5-9937-7360536c7d3a)
+
 ## What is ChelonianGall?
 
 July 11, 2022, [CodinGame](https://codingame.com) discontinued their webchat after years of good services, arguing it was complicated to maintain and moderate. Which was true. But instead of reworking/remade it, they decided to delete it completely and to rely only on their Discord server. A perfect trade from their point of view. But sadly they missed the point.
