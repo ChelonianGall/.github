@@ -13,6 +13,8 @@ ChelonianGall takes the form of a [XMPP](https://xmpp.org/) server coupled with 
 - The use of XMPP and of a dedicated domain name drastically reduce the risk to see it blocked by a firewall.
 - An [user script](https://greasyfork.org/en) to integrate our webchat directly on CodinGame is under development.
 
+Don't hesitate to join us!
+
 ## Project status
 
 The XMPP server is up and can be reached trough the dedicated webchat located at [cheloniangall.com](https://cheloniangall.com/) or via the your favorite [XMPP client](https://xmpp.org/software/clients/).
@@ -20,3 +22,11 @@ The XMPP server is up and can be reached trough the dedicated webchat located at
 We are currently working on a full new design for the webchat in the form of a right-sided column, as was the CodinGame's one. Then, we plan to create an user script to allow the integration of our chat on CodinGame.
 
 After that, the next step will be to save our dear friend [Automaton2000](https://www.codingame.com/blog/markov-chain-automaton2000/), and to give him his right place among us.
+
+An overview of the project status is [available](https://github.com/orgs/ChelonianGall/projects/1) here.
+
+## Bug report and contribution
+
+If you are encountering any issues or have a feature request, feel free to ask directly on the chat or to submit an issue on the corresponding [repository](https://github.com/orgs/ChelonianGall/repositories). Same if you want to help on the development.
+
+Thanks in advance!
