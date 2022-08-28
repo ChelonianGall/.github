@@ -19,7 +19,7 @@ Don't hesitate to join us!
 
 ## Project status
 
-The XMPP server is up and can be reached trough the dedicated webchat located at [cheloniangall.com](https://cheloniangall.com/) or via the your favorite [XMPP client](https://xmpp.org/software/clients/).
+The XMPP server is up and can be reached trough the dedicated webchat located at [cheloniangall.com](https://cheloniangall.com/) or via your favorite [XMPP client](https://xmpp.org/software/clients/).
 
 We are currently working on a full new design for the webchat in the form of a right-sided column, as was the CodinGame's one. Then, we plan to create an user script to allow the integration of our chat on CodinGame.
 
