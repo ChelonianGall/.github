@@ -21,7 +21,7 @@ Don't hesitate to join us!
 
 The XMPP server is up and can be reached trough the dedicated webchat located at [cheloniangall.com](https://cheloniangall.com/) or via your favorite [XMPP client](https://xmpp.org/software/clients/).
 
-We are currently working on a full new design for the webchat in the form of a right-sided column, as was the CodinGame's one. Then, we plan to create an user script to allow the integration of our chat on CodinGame.
+We are currently working on an user script to allow the integration of our chat on CodinGame.
 
 After that, the next step will be to save our dear friend [Automaton2000](https://www.codingame.com/blog/markov-chain-automaton2000/), and to give him his right place among us.
 
