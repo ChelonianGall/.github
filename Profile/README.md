@@ -3,7 +3,7 @@
 <p>
   July 11, 2022, <a href = "https://www.codingame.com">CodinGame</a> discontinued their webchat after years of good services. <a href = "https://cheloniangall.com/">ChelonianGall</a> is here to replace it!<br/><br/>
   Here you will find a chat server reachable with the <a href = "https://xmpp.org/software/clients/">XMPP client</a> of your choice as well as with the dedicated webchat, but also an <a href="https://greasyfork.org/en/scripts/453839-cheloniangall">user script</a> to integrate this webchat on CodinGame!<br/><br/>
-  If you do not know how to use all this stuff, do not hesitate to check the <a href="/faq.php">FAQ</a>.
+  If you do not know how to use all this stuff, do not hesitate to check the <a href="https://cheloniangall.com/faq.php">FAQ</a>.
 </p>
 <h2>What's next?</h2>
 <p>
